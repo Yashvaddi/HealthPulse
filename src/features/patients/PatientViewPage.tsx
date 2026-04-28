@@ -21,7 +21,6 @@ import {
   TrendingUp,
   FileText
 } from 'lucide-react';
-import { motion } from 'framer-motion';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { Badge, statusToVariant } from '../../shared/components/ui/Badge';
 

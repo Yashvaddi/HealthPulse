@@ -9,7 +9,7 @@
  */
 import React, { memo } from 'react';
 import Chart from 'react-apexcharts';
-import { Download, Calendar, Activity, TrendingUp, Brain, Heart, ChevronDown } from 'lucide-react';
+import { Download, Calendar, Brain, Heart, ChevronDown } from 'lucide-react';
 import { PageHeader } from '../../shared/components/ui/PageHeader';
 import { downloadCSV, toCSV } from '../../shared/lib/utils';
 

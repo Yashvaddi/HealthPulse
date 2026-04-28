@@ -10,7 +10,6 @@
  */
 import React, { memo } from 'react';
 import {
-  Users,
   Clock,
   Calendar,
   Video,
